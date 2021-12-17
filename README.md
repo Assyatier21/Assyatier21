@@ -1,5 +1,5 @@
 Hello! I’m Muhammad Sholeh, an Undergraduate Informatics student at Sriwijaya University.
-I’m interested in Natural Language Processing, Python and Java Programming.
+I’m interested in Natural Language Processing, Java and Website Programming.
 
 
 <!---
