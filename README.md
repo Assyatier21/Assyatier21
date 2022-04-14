@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-sholeh11/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier21&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyatier21&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier21&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyatier21&layout=compact&theme=tokyonight" />
 
 <!--
 
