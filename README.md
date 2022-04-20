@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://assyatier21.github.io/" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Assyatier21&repo=assyatier21.github.io&theme=cobalt" width="400" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Assyatier21&repo=assyatier21.github.io&theme=cobalt&hide_border=true" width="400" />
 </a>
 <a href="https://github.com/Assyatier21/learn-react-skeleton" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Assyatier21&repo=learn-react-skeleton&theme=cobalt" width="400" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Assyatier21&repo=learn-react-skeleton&theme=cobalt&hide_border=true" width="400" />
 </a>
 <!--
 
