@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-sholeh11/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier21&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt&hide=issues" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyatier21&layout=compact&theme=cobalt" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Assyatier21&repo=assyatier21.github.io&theme=cobalt" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyatier21&layout=compact&theme=cobalt" /> 
+<a href="https://assyatier21.github.io/" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Assyatier21&repo=assyatier21.github.io&theme=cobalt" />
+</a>
 <!--
 
 Here are some ideas to get you started:
