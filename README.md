@@ -18,7 +18,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Assyatier21&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Assyatier21&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Assyatier21 github activity graph](https://activity-graph.herokuapp.com/graph?username=Assyatier21&theme=react-dark)](https://github.com/assyatier21)
 
 <!-- Updated on 15 July 2022 --!>
  
