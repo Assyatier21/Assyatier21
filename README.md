@@ -6,7 +6,7 @@
       </span></animated-image>
 </p>
 
-🔭 Website Developer at Kisel Indonesia
+🔭 Software Engineer at Tokopedia
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-sholeh11/)
 <br>
@@ -20,7 +20,7 @@
  
 [![Assyatier21 github activity graph](https://activity-graph.herokuapp.com/graph?username=Assyatier21&theme=react-dark)](https://github.com/assyatier21)
 
-<!-- Updated on 15 July 2022 --!>
+<!-- Updated on 07 September 2022 --!>
  
 
 
