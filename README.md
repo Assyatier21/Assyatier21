@@ -6,7 +6,7 @@
       </span></animated-image>
 </p>
 
-🔭 Software Engineer at Tokopedia
+🔭 Software Engineer Backend Enthusiast
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-sholeh11/)
 <br>
