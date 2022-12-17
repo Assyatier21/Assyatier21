@@ -10,17 +10,29 @@
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-sholeh11/)
 <br>
-:desktop_computer: See my portofolio and my latest work [Here](http://assyatier-portofolio.herokuapp.com/)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier21&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=github_dark" /> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyatier21&layout=compact&count_private=true&theme=github_dark" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Assyatier21&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- :desktop_computer: See my portofolio and my latest work [Here](http://assyatier-portofolio.herokuapp.com/) -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier21&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=github_dark" />    
+      </th>
+      <th width="500px">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assyatier21&hide=CSS,Javascript&langs_count=10&layout=compact&count_private=true&theme=github_dark" />
+      </th>
+    </tr>
+    <tr>
+       <th colspan="2">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Assyatier21&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" />
+       </th>
+    </tr>
+  </thead>
+</table>
  
-[![Assyatier21 github activity graph](https://activity-graph.herokuapp.com/graph?username=Assyatier21&theme=react-dark)](https://github.com/assyatier21)
 
-<!-- Updated on 07 September 2022 --!>
+[![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Assyatier21&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+<!-- Updated on 17 December 2022 --!>
  
 
 
