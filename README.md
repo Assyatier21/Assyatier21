@@ -8,7 +8,7 @@
 
 🔭 Software Engineer Backend Enthusiast
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-sholeh11/)
+📫 Reach me on  <a href="https://www.linkedin.com/in/muhammad-sholeh11/" target="_blank">LinkedIn</a>
 <br>
 <!-- :desktop_computer: See my portofolio and my latest work [Here](http://assyatier-portofolio.herokuapp.com/) -->
 <table>
