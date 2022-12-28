@@ -12,7 +12,7 @@
 
 A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="13"/> <b>Jakarta, Indonesia</b>. 
 - 📫 Wanna know more about My experience? Reach me on  <a href="https://www.linkedin.com/in/muhammad-sholeh11/" target="_blank">LinkedIn</a>
-- 💡 Passionate to learn about Web Development especially Backend
+- 🖥️ Passionate to learn about Website Development especially Backend
 
 <h3>👨‍💻 Tech Stack & Tools</h3>
 - Experienced in : 
