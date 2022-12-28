@@ -68,7 +68,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 </table>
  
 
-[![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Assyatier21&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Assyatier21&theme=react-dark)](https://github.com/Assyatier21)
  
 <!-- Updated on 27 December 2022 --!>
  
