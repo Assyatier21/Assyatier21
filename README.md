@@ -22,6 +22,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flate&logo=jquery&logoColor=white"/>
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white"/>
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23181717.svg?style=flat&logo=bootstrap&logoColor=blue)">
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%23ED8B00.svg?style=flat&logo=sqlite&logoColor=white)"/>
