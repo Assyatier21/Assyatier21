@@ -54,7 +54,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
   <thead>
     <tr>
       <th width="500px">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Assyatier21&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=github_dark" />    
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=assyatier21&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=github_dark" />    
       </th>
       <th width="500px">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assyatier21&hide=CSS,Javascript,HTML&langs_count=6&layout=compact&count_private=true&theme=github_dark" />
@@ -71,7 +71,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 
 [![Assyatier's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Assyatier21&theme=react-dark)](https://github.com/Assyatier21)
  
-<!-- Updated on 27 December 2022 --!>
+<!-- Updated on 12 January 2023 --!>
  
 
 
