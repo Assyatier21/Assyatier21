@@ -62,7 +62,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
     </tr>
     <tr>
        <th colspan="2">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Assyatier21&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Assyatier21&theme=tokyonight_duo&date_format=d%20M%20Y" />
        </th>
     </tr>
   </thead>
