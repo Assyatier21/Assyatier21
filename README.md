@@ -31,11 +31,9 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
   </p>
   <p>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
-    <img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
-    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-0078d7.svg?style=flat&logo=intellij-idea&logoColor=white)"/>
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+    <img alt="Sonarqube" src="https://img.shields.io/badge/sonarqube-%0769AD.svg?style=flat&logo=sonarqube&logoColor=FFFFFF"/>
     <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
     <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
