@@ -20,7 +20,7 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
   <p></p>
   <p>
     <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/>
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flate&logo=jquery&logoColor=white"/>
@@ -41,8 +41,9 @@ A Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/32
 - Currently learning : 
   <p></p>
   <p>
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
     <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elastic_Search-005571?style=flat&logo=elasticsearch&logoColor=white"/>
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
     <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flate&logo=jenkins&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
